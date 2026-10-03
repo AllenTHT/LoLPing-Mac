@@ -1,0 +1,220 @@
+{
+  "imageVersion": "15.24",
+  "imageSource": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/",
+  "officialReference": "https://support.riotgames.com/en-us/league-of-legends/gameplay/smart-ping",
+  "soundRevision": "f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b",
+  "soundSource": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/",
+  "soundNotice": "Community audio; equivalence to original Riot recordings is unverified.",
+  "files": [
+    {
+      "path": "Icons/retreat.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/retreat.png"
+    },
+    {
+      "path": "Icons/push.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/push.png"
+    },
+    {
+      "path": "Icons/on_my_way_new.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/on_my_way_new.png"
+    },
+    {
+      "path": "Icons/all_in.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/all_in.png"
+    },
+    {
+      "path": "Icons/assist.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/assist.png"
+    },
+    {
+      "path": "Icons/need_ward.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/need_ward.png"
+    },
+    {
+      "path": "Icons/mia_new.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/mia_new.png"
+    },
+    {
+      "path": "Icons/area_is_warded_small_red_new.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/area_is_warded_small_red_new.png"
+    },
+    {
+      "path": "Icons/ping.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/ping.png"
+    },
+    {
+      "path": "Icons/ring.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/ring.png"
+    },
+    {
+      "path": "Icons/ring2.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/ring2.png"
+    },
+    {
+      "path": "Icons/ring_danger.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/ring_danger.png"
+    },
+    {
+      "path": "Icons/ring2_yellow.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/ring2_yellow.png"
+    },
+    {
+      "path": "Icons/ring_green.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/ring_green.png"
+    },
+    {
+      "path": "Icons/ring_red.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/minimap/pings/ring_red.png"
+    },
+    {
+      "path": "Sounds/retreat.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/retreat.mp3"
+    },
+    {
+      "path": "Sounds/push.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/push.mp3"
+    },
+    {
+      "path": "Sounds/on_my_way.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/on_my_way.mp3"
+    },
+    {
+      "path": "Sounds/all_in.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/all_in.mp3"
+    },
+    {
+      "path": "Sounds/assist_me.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/assist_me.mp3"
+    },
+    {
+      "path": "Sounds/need_vision.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/need_vision.mp3"
+    },
+    {
+      "path": "Sounds/q_mark.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/q_mark.mp3"
+    },
+    {
+      "path": "Sounds/enemy_vision.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/enemy_vision.mp3"
+    },
+    {
+      "path": "Sounds/alert.mp3",
+      "url": "https://raw.githubusercontent.com/alibaztomars/lol-ping-overlay/f10d7a448f56bfeb35dd8e49dae78c7e8ab9bc8b/sounds/alert.mp3"
+    },
+    {
+      "path": "Artwork/radialwheel_atlas.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/radialwheel_atlas.png"
+    },
+    {
+      "path": "Artwork/radialwheel_atlas_2.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/radialwheel_atlas_2.png"
+    },
+    {
+      "path": "Artwork/radialwheel_atlas_3.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/radialwheel_atlas_3.png"
+    },
+    {
+      "path": "Artwork/radialwheel_atlas_5.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/radialwheel_atlas_5.png"
+    },
+    {
+      "path": "Artwork/radialwheel_atlas_6.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/radialwheel_atlas_6.png"
+    },
+    {
+      "path": "Artwork/radialwheelalt_atlas.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/radialwheelalt_atlas.png"
+    },
+    {
+      "path": "Artwork/radialwheelalt_atlas_2.png",
+      "url": "https://raw.communitydragon.org/15.24/game/assets/ux/menu/radialwheelalt_atlas_2.png"
+    }
+  ],
+  "rendering": "Scalable CGPath silhouettes reconstructed from wheel atlases. Minimap icons are legacy resources and are no longer displayed.",
+  "animationNotice": "Desktop motion rebuilt in AppKit from the supplied reference video. Eight non-generic world effects are matching-style reconstructions, not verified frame-for-frame originals.",
+  "vectorFile": "Artwork/ping-vectors.json",
+  "vectorRegions": {
+    "retreat": {
+      "atlas": "radialwheel_atlas_2.png",
+      "sourceBounds": [
+        120,
+        165,
+        60,
+        55
+      ]
+    },
+    "push": {
+      "atlas": "radialwheel_atlas_2.png",
+      "sourceBounds": [
+        278,
+        690,
+        49,
+        61
+      ]
+    },
+    "onMyWay": {
+      "atlas": "radialwheel_atlas_2.png",
+      "sourceBounds": [
+        797,
+        828,
+        54,
+        53
+      ]
+    },
+    "allIn": {
+      "atlas": "radialwheel_atlas_2.png",
+      "sourceBounds": [
+        276,
+        887,
+        52,
+        52
+      ]
+    },
+    "assist": {
+      "atlas": "radialwheel_atlas_2.png",
+      "sourceBounds": [
+        570,
+        795,
+        54,
+        59
+      ]
+    },
+    "needVision": {
+      "atlas": "radialwheelalt_atlas_2.png",
+      "sourceBounds": [
+        602,
+        332,
+        56,
+        47
+      ]
+    },
+    "missing": {
+      "atlas": "radialwheel_atlas_2.png",
+      "sourceBounds": [
+        178,
+        399,
+        33,
+        53
+      ]
+    },
+    "enemyVision": {
+      "atlas": "radialwheelalt_atlas_2.png",
+      "sourceBounds": [
+        136,
+        764,
+        37,
+        39
+      ]
+    },
+    "generic": {
+      "atlas": "radialwheel_atlas_2.png",
+      "sourceBounds": [
+        850,
+        64,
+        38,
+        41
+      ]
+    }
+  }
+}
