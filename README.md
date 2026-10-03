@@ -2,9 +2,23 @@
 
 一个原生 Swift / AppKit 菜单栏软件。在 Mac 上按住组合键，移动鼠标选择英雄联盟风格的信号，松开发送。
 
+## 下载与安装
+
+**[下载 LoLPing v1.1.0 · Apple Silicon（ZIP）](https://github.com/AllenTHT/LoLPing-Mac/releases/download/v1.1.0/LoLPing-v1.1.0-macOS-arm64.zip)** · [查看最新版本](https://github.com/AllenTHT/LoLPing-Mac/releases/latest)
+
+- 适用设备：Apple Silicon（M 系列芯片）Mac；当前安装包不支持 Intel Mac。
+- 系统要求：macOS 13 或更新版本。目前仅在 macOS 15.7.3 实测，其他系统版本和外接屏尚未实测。
+- 下载包内包含 App、图标及音效；使用时无需安装 Xcode、Swift 或其他开发工具。
+
+1. 点击上方下载链接，或在 Releases 页面的 **Assets** 中下载 `LoLPing-v1.1.0-macOS-arm64.zip`。GitHub 自动提供的 `Source code (zip)` 和 `Source code (tar.gz)` 是源码，不是 App 安装包。
+2. 双击 ZIP 解压，将 `LoLPing.app` 拖入「应用程序」文件夹。
+3. 从「应用程序」打开 LoLPing。当前版本使用本地签名，尚未使用 Developer ID 签名及 Apple 公证。如果系统提示无法验证开发者，确认下载来源可信且 App 未被篡改后，在尝试打开后进入 **系统设置 → 隐私与安全性 → 仍要打开**，并确认打开。详见 [Apple 官方说明](https://support.apple.com/zh-cn/102445)。
+4. 开启「启用 Ping」，按照提示进入 **系统设置 → 隐私与安全性 → 辅助功能**，允许 **LoLPing**；如果应用提示需要重新打开，请退出后重新运行，再开启开关。
+5. 按照下方「使用」说明发送信号。首次安装默认关闭，需要手动开启。
+
 ## 使用
 
-1. 双击 `dist/LoLPing.app`，先在「信号试用」中点选九种信号。窗口内预览不需要系统权限，也不受全局开关限制。
+1. 打开 LoLPing，在「信号试用」中点选九种信号。窗口内预览不需要系统权限，也不受全局开关限制。
 2. 开启「启用 Ping」。如果提示授权，进入 **系统设置 → 隐私与安全性 → 辅助功能**，允许 **LoLPing**。这一步需要你亲自操作；应用不会替你更改系统权限。
 3. 将鼠标放在要标记的位置，按住 **Control + Option + Command** 约 0.18 秒，移动鼠标选择，松开任意一键发送。无需按住鼠标按钮。
 4. 中央是普通蓝色信号；Esc / 右键取消。信号出现在最初呼出的位置。下一次操作前，请完全松开三个修饰键。
